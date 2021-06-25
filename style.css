@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@900&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +13,7 @@
   }
   
   #heading {
-      text-align: center;
+    text-align: center;
     position: sticky;
     top: 0;
     background-color: rgb(31, 30, 30);
@@ -20,6 +21,7 @@
     padding: 15px 0px;
     margin-left: 15px;
     background-image: url(back.png);
+    font-family: 'Titillium Web', sans-serif;
   }
   #form{
       text-align: center;
